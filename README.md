@@ -30,5 +30,5 @@ logdir is also changable in ```config.py```
 
 >I compared my implementation with the implementation of @MG2033, for he has the most star between all pytorch mobilenetv2 implementation, is quite confusing that my implementation on cifar100 has about 8% higher accuracy-74% vs 66%, my training policy is the same with his.
 
-![my_implementation]()
-![his_implementation]()
+![my_implementation](https://github.com/zym1119/MobileNetV2_pytorch_cifar/blob/master/img/mobilenetv2_test_cifar100_mine.png)
+![his_implementation](https://github.com/zym1119/MobileNetV2_pytorch_cifar/blob/master/img/mobilenetv2_test_cifar100_other.png)
